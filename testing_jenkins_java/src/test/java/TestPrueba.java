@@ -9,7 +9,7 @@ public class TestPrueba {
         int valor = 23;
         int valor2 = 12;
 
-        assertEquals(34, valor + valor2);
+        assertEquals(35, valor + valor2);
 
     }
 
